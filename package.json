@@ -1,5 +1,5 @@
 {
-      "name": "click-outside-react",
+      "name": "@react-click-outside",
       "version": "1.0.0",
       "description": "A React Hook to detect clicking outside a ref",
       "main": "./src/main.js",
@@ -8,7 +8,6 @@
         "build": "webpack"
        },
        "peerDependencies": {
-          "prop-types": "^15.6.0",
           "react": "^16.0.0",
           "react-dom": "^16.0.0"
        },
@@ -19,7 +18,6 @@
           "babel-preset-react": "^6.16.0",
           "babel-preset-stage-0": "^6.24.1",
           "path": "^0.12.7",
-          "prop-types": "^15.6.0",
           "react": "^16.0.0",
           "react-dom": "^16.0.0",
           "webpack": "^4.5.0",
