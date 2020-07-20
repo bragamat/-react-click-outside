@@ -1,5 +1,5 @@
 {
-      "name": "@react-click-outside",
+      "name": "react-useclickoutside",
       "version": "1.0.0",
       "description": "A React Hook to detect clicking outside a ref",
       "main": "./src/main.js",
